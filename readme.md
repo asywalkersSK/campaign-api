@@ -10,7 +10,6 @@ La plataforma ofrece seguridad mediante roles y JWT para autenticar al usuario, 
   - [Visual Studio Code](#visual-studio-code)
   - [Git](#git)
   - [Node.js](#nodejs)
-  - [Nginx](#nginx)
   - [Descripción de Endpoints](#descripción-de-endpoints)
 
 ## 🛠️ Instalación de Instancia
@@ -32,7 +31,7 @@ node -v
 npm -v
 🚀 Instalación de dependencias
 Clonar el repositorio:
-git clone <repositorio_url>
+git clone https://github.com/asywalkersSK/campaign-api.git
 Instalar dependencias del proyecto:
 
 npm install
